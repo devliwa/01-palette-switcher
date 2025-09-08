@@ -19,7 +19,7 @@ It’s a fun way to explore basic DOM manipulation, event listeners, and arrays 
 
 ---
 
-## Demo Preview  
+## Website Demo   
 ![Palette Switcher](./screenshot.png)  
 *(replace with your screenshot file)*  
 
