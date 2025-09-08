@@ -20,8 +20,8 @@ It’s a fun way to explore basic DOM manipulation, event listeners, and arrays 
 ---
 
 ## Website Demo   
-![Palette Switcher](./Palette Switcher.png)  
-*(replace with your screenshot file)*  
+<img width="1268" height="643" alt="Palette Switcher" src="https://github.com/user-attachments/assets/2fe2d766-866b-4da0-87d9-2a95e363f15a" />
+
 
 ---
 
