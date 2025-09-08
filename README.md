@@ -1,1 +1,1 @@
-# 01-palette-switcher
+# 01 Palette Switcher
