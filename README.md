@@ -19,7 +19,8 @@ It’s a fun way to explore basic DOM manipulation, event listeners, and arrays 
 
 ---
 
-## Website Demo   
+## Website Demo
+[Palette Switcher](https://devliwa.github.io/01-palette-switcher/)  
 <img width="1268" height="643" alt="Palette Switcher" src="https://github.com/user-attachments/assets/2fe2d766-866b-4da0-87d9-2a95e363f15a" />
 
 
