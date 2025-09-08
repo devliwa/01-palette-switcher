@@ -20,7 +20,7 @@ It’s a fun way to explore basic DOM manipulation, event listeners, and arrays 
 ---
 
 ## Website Demo   
-![Palette Switcher](./screenshot.png)  
+![Palette Switcher](./Palette Switcher.png)  
 *(replace with your screenshot file)*  
 
 ---
